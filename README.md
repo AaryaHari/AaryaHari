@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aarya Hari
 
-<!--
-**AaryaHari/AaryaHari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Information Systems @ University of Maryland 
+🎓 Bachelor's in Computer Engineering @ Mumbai University  
+💼 Data Analyst | Ex-Oracle | Interned at AARP | Ex-Analyst @ Comptroller of Maryland  
+🌎 Passionate about data, tech, and building solutions that make an impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- 🛠 Analyze and transform messy data into actionable insights
+- 🧮 Build predictive models using Python (Scikit-learn) and SQL
+- 📊 Design real-time dashboards using Tableau and Power BI
+- 🔁 Automate ETL workflows using PySpark, SQL, and AWS tools
+- ⚙️ Solve business problems across finance, tech, and public sectors
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python • SQL • Java  
+**Data & ML:** Pandas • Scikit-learn • PySpark • Time-series Analysis  
+**Visualization:** Tableau • Power BI • Matplotlib • Seaborn  
+**Cloud & Tools:** AWS (Redshift, S3, Lambda) • Git • Airflow  
+**Databases:** Oracle • PostgreSQL • MongoDB • Snowflake  
+
+---
+
+## 🚀 Projects
+
+- **Airbnb Price Prediction:** PySpark + Scikit-learn model with 86% accuracy, interactive Tableau dashboard  
+- **Loan Default Analysis:** Machine learning model trained on 1M+ records in AWS SageMaker  
+- **Incident Categorization:** ML classifier reducing manual triage by 50% at AARP  
+
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aarya-hari/)  
+- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/aarya.hari5931/vizzes)  
