@@ -23,10 +23,10 @@
 `Python` • `SQL` • `Java` • `HTML` • `CSS` • `JavaScript`
 
 **Data Engineering & Analytics:**  
-`PySpark` • `Pandas` • `NumPy` • `Scikit-learn` • `Time Series Analysis` • `ETL Pipelines` • `Data Modeling` • `Statistical Analysis`
+`PySpark` • `Pandas` • `NumPy` • `Scikit-learn` • `Time Series Analysis` • `ETL Pipelines` • `Data Modeling` • `Statistical Analysis` • `dbt (data build tool)`
 
 **Visualization:**  
-`Tableau` • `Power BI` • `Matplotlib` • `Seaborn` • `Google Data Studio`
+`Tableau` • `Power BI` • `Matplotlib` • `Seaborn` • `Google Data Studio` • `Looker`
 
 **Cloud & DevOps:**  
 `AWS (Redshift, S3, Lambda, SageMaker)` • `Apache Airflow` • `Git` • `GitHub` • `Jenkins` • `Oracle Cloud`
@@ -34,9 +34,8 @@
 **Databases:**  
 `Oracle` • `PostgreSQL` • `MySQL` • `MongoDB` • `Snowflake`
 
-**Tools & Platforms:**  
-`Jupyter` • `Google Colab` • `VS Code` • `Databricks` • `Salesforce` • `Jira` • `Confluence` • `SharePoint`
-  
+**Tools & Platforms:**
+`Jupyter` • `Google Colab` • `VS Code` • `Databricks` • `Salesforce` • `Jira` • `Confluence` • `SharePoint` • `Segment`
 
 ---
 
