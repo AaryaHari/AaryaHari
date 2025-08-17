@@ -14,6 +14,8 @@
 - 📊 Design real-time dashboards using Tableau and Power BI
 - 🔁 Automate ETL workflows using PySpark, SQL, and AWS tools
 - ⚙️ Solve business problems across finance, tech, and public sectors
+- 🧩 Collaborate with cross-functional teams to define product requirements and align analytics with user needs
+- 🚀 Drive data-informed product decisions by translating insights into roadmap priorities and feature enhancements
 
 ---
 
@@ -37,13 +39,18 @@
 **Tools & Platforms:**
 `Jupyter` • `Google Colab` • `VS Code` • `Databricks` • `Salesforce` • `Jira` • `Confluence` • `SharePoint` • `Segment`
 
+**Core Competencies:**
+`Product Ideation` • `Cross-Functional Collaboration` • `A/B Testing` • `Agile Methodologies` • `Stakeholder Collaboration` 
+
 ---
 
 ## 🚀 Projects
 
+- **Brain Tumor Detection using CNN:** CNN model (TensorFlow, Keras) with 92% accuracy on MRI scans; optimized image pipeline with OpenCV for faster inference  
 - **Airbnb Price Prediction:** PySpark + Scikit-learn model with 86% accuracy, interactive Tableau dashboard  
 - **Loan Default Analysis:** Machine learning model trained on 1M+ records in AWS SageMaker  
-- **Incident Categorization:** ML classifier reducing manual triage by 50% at AARP  
+- **Incident Categorization:** ML classifier reducing manual triage by 50% at AARP
+- **Escalation Prediction:** ML model for incident tickets at AARP to identify high-risk cases early, reducing escalation handling time
 
 
 ---
