@@ -36,10 +36,10 @@
 **Databases:**  
 `Oracle` • `PostgreSQL` • `MySQL` • `MongoDB` • `Snowflake`
 
-**Tools & Platforms:**
+**Tools & Platforms:**  
 `Jupyter` • `Google Colab` • `VS Code` • `Databricks` • `Salesforce` • `Jira` • `Confluence` • `SharePoint` • `Segment`
 
-**Product Competencies:**
+**Product Competencies:**  
 `Product Ideation` • `Cross-Functional Collaboration` • `Agile & Scrum Methodologies` • `Stakeholder Collaboration` • `Roadmap Ownership` • `Success Metrics & KPIs` • `Requirement Gathering` 
 
 ---
