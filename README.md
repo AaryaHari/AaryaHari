@@ -25,7 +25,7 @@
 `Python` • `SQL` • `Java` • `HTML` • `CSS` • `JavaScript`
 
 **Data Engineering & Analytics:**  
-`PySpark` • `Pandas` • `NumPy` • `Scikit-learn` • `Time Series Analysis` • `ETL Pipelines` • `Data Modeling` • `Statistical Analysis` • `dbt (data build tool)`
+`PySpark` • `Pandas` • `NumPy` • `Scikit-learn` • `Time Series Analysis` • `ETL Pipelines` • `Data Modeling` • `Statistical Analysis` • `dbt (data build tool)` • `A/B Testing`
 
 **Visualization:**  
 `Tableau` • `Power BI` • `Matplotlib` • `Seaborn` • `Google Data Studio` • `Looker`
@@ -39,8 +39,8 @@
 **Tools & Platforms:**
 `Jupyter` • `Google Colab` • `VS Code` • `Databricks` • `Salesforce` • `Jira` • `Confluence` • `SharePoint` • `Segment`
 
-**Core Competencies:**
-`Product Ideation` • `Cross-Functional Collaboration` • `A/B Testing` • `Agile Methodologies` • `Stakeholder Collaboration` 
+**Product Competencies:**
+`Product Ideation` • `Cross-Functional Collaboration` • `Agile & Scrum Methodologies` • `Stakeholder Collaboration` • `Roadmap Ownership` • `Success Metrics & KPIs` • `Requirement Gathering` 
 
 ---
 
