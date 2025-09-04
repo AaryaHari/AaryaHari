@@ -1,61 +1,46 @@
-# 👋 Hi there, I'm Aarya Hari
+# 👋 Hi there, I'm Aarya Hari  
 
-- 🎓 Master's in Information Systems @ University of Maryland 
-- 🎓 Bachelor's in Computer Engineering @ Mumbai University  
-- 💼 Data Analyst | Ex-Oracle | Interned at AARP | Ex-Analyst @ Comptroller of Maryland  
-- 🌎 Passionate about data, tech, and building solutions that make an impact
+🎓 **M.S. in Information Systems** @ University of Maryland  
+🎓 **B.E. in Computer Engineering** @ Mumbai University  
 
----
+💼 **Software Engineer | Data Analyst | Ex-Oracle | Interned at AARP | Ex-Analyst @ Comptroller of Maryland**  
 
-## 🧠 What I Do
-
-- 🛠 Analyze and transform messy data into actionable insights
-- 🧮 Build predictive models using Python (Scikit-learn) and SQL
-- 📊 Design real-time dashboards using Tableau and Power BI
-- 🔁 Automate ETL workflows using PySpark, SQL, and AWS tools
-- ⚙️ Solve business problems across finance, tech, and public sectors
-- 🧩 Collaborate with cross-functional teams to define product requirements and align analytics with user needs
-- 🚀 Drive data-informed product decisions by translating insights into roadmap priorities and feature enhancements
+🌎 Passionate about **data, software, and building scalable solutions** that create real-world impact.  
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 What I Do  
 
-**Languages:**  
-`Python` • `SQL` • `Java` • `HTML` • `CSS` • `JavaScript`
+### 💻 Software Engineering  
+- ⚙️ **Engineer scalable systems & APIs** with Java, Python (Flask/FastAPI), and RESTful services  
+- 🖥️ **Develop full-stack features & tools** using React.js, Node.js, and modern web frameworks  
+- 🧩 **Implement automation & DevOps pipelines** with AWS (Lambda, Redshift, S3) and CI/CD tools  
+- 🔐 **Build secure, reliable applications** with strong focus on testing, error handling, and performance optimization  
 
-**Data Engineering & Analytics:**  
-`PySpark` • `Pandas` • `NumPy` • `Scikit-learn` • `Time Series Analysis` • `ETL Pipelines` • `Data Modeling` • `Statistical Analysis` • `dbt (data build tool)` • `A/B Testing`
-
-**Visualization:**  
-`Tableau` • `Power BI` • `Matplotlib` • `Seaborn` • `Google Data Studio` • `Looker`
-
-**Cloud & DevOps:**  
-`AWS (Redshift, S3, Lambda, SageMaker)` • `Apache Airflow` • `Git` • `GitHub` • `Jenkins` • `Oracle Cloud`
-
-**Databases:**  
-`Oracle` • `PostgreSQL` • `MySQL` • `MongoDB` • `Snowflake`
-
-**Tools & Platforms:**  
-`Jupyter` • `Google Colab` • `VS Code` • `Databricks` • `Salesforce` • `Jira` • `Confluence` • `SharePoint` • `Segment`
-
-**Product Competencies:**  
-`Product Ideation` • `Cross-Functional Collaboration` • `Agile & Scrum Methodologies` • `Stakeholder Collaboration` • `Roadmap Ownership` • `Success Metrics & KPIs` • `Requirement Gathering` 
+### 📊 Data Analytics  
+- 🔍 **Analyze & transform large datasets** into actionable insights for decision-making  
+- 🤖 **Build predictive models** with Python (scikit-learn), SQL, and R for forecasting & classification  
+- 📊 **Design interactive dashboards** with Tableau and Power BI to support real-time business visibility  
+- 🔁 **Validate models & streamline ETL workflows** using PySpark, SQL, and AWS tools  
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack  
 
-- **Brain Tumor Detection using CNN:** CNN model (TensorFlow, Keras) with 92% accuracy on MRI scans; optimized image pipeline with OpenCV for faster inference  
-- **Airbnb Price Prediction:** PySpark + Scikit-learn model with 86% accuracy, interactive Tableau dashboard  
-- **Loan Default Analysis:** Machine learning model trained on 1M+ records in AWS SageMaker  
-- **Incident Categorization:** ML classifier reducing manual triage by 50% at AARP
-- **Escalation Prediction:** ML model for incident tickets at AARP to identify high-risk cases early, reducing escalation handling time
-
+**Languages:** Python | Java | SQL | R | JavaScript  
+**Frameworks & Tools:** Flask | FastAPI | React.js | Node.js | PySpark | Databricks | Docker (learning)  
+**Data & ML:** Pandas | NumPy | scikit-learn | AWS SageMaker | Data Modeling | Model Validation  
+**Visualization:** Tableau | Power BI | Matplotlib | Seaborn  
+**Databases:** Oracle | PostgreSQL | MySQL | Snowflake | Redshift  
+**Cloud & DevOps:** AWS (Lambda, Redshift, S3) | Git | JIRA | CI/CD  
 
 ---
 
-## 📫 Let's Connect!
+## 🌱 Current Focus  
+- Strengthening **system design & algorithms** for SWE interviews  
+- Enhancing **data modeling & governance expertise** for analytics roles  
+- Building projects that combine **AI + data engineering** for end-to-end solutions  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aarya-hari/)  
-- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/aarya.hari5931/vizzes)  
+---
+
+⚡ Always exploring ways to merge **data and engineering** to solve high-impact problems.  
