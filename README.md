@@ -3,7 +3,7 @@
 🎓 **M.S. in Information Systems** @ University of Maryland  
 🎓 **B.E. in Computer Engineering** @ Mumbai University  
 
-💼 **Data Analyst | Software Engineer**  
+💼 **Software Engineer | Data Analyst**  
 🔹 Ex-Oracle | AARP Intern | Ex-Analyst @ Comptroller of Maryland  
 
 🌎 Passionate about **data, software, and building scalable solutions** that create real-world impact.  
