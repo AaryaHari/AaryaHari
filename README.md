@@ -8,7 +8,6 @@
 
 🌎 Passionate about **data, software, and building scalable solutions** that create real-world impact.  
 
----
 
 ## 🧠 What I Do  
 
@@ -18,13 +17,13 @@
 - 🧩 **Implement automation & DevOps pipelines** with AWS (Lambda, Redshift, S3) and CI/CD tools  
 - 🔐 **Build secure, reliable applications** with focus on testing, error handling, and performance optimization  
 
+
 ### 📊 Data Analytics  
 - 🔍 **Analyze & transform large datasets** into actionable insights for decision-making  
 - 🤖 **Build predictive models** with Python (scikit-learn), SQL, and R for forecasting & classification  
 - 📊 **Design interactive dashboards** with Tableau and Power BI for real-time business visibility  
 - 🔁 **Validate models & streamline ETL workflows** using PySpark, SQL, and AWS tools  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -58,14 +57,13 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
 
 
----
-
 ## 🌱 Current Focus  
 - 🚀 Strengthening **system design & algorithms** for SWE interviews  
 - 📊 Enhancing **data modeling & governance expertise** for analytics roles  
 - 🤝 Building projects that combine **AI + data engineering** for end-to-end solutions  
 
----
+
+  
 
 
 ⚡ Always exploring ways to merge **data and engineering** to solve high-impact problems.  
