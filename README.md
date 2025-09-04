@@ -8,6 +8,7 @@
 
 🌎 Passionate about **data, software, and building scalable solutions** that create real-world impact.  
 
+&nbsp;
 
 ## 🧠 What I Do  
 
@@ -24,7 +25,7 @@
 - 📊 **Design interactive dashboards** with Tableau and Power BI for real-time business visibility  
 - 🔁 **Validate models & streamline ETL workflows** using PySpark, SQL, and AWS tools  
 
-
+&nbsp;
 ## 🛠️ Tech Stack  
 
 **Languages:**  
@@ -57,12 +58,13 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
 
 
+&nbsp;
 ## 🌱 Current Focus  
 - 🚀 Strengthening **system design & algorithms** for SWE interviews  
 - 📊 Enhancing **data modeling & governance expertise** for analytics roles  
 - 🤝 Building projects that combine **AI + data engineering** for end-to-end solutions  
 
-
+&nbsp;
   
 
 
