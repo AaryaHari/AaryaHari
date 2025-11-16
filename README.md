@@ -3,10 +3,10 @@
 🎓 **M.S. in Information Systems** @ University of Maryland  
 🎓 **B.E. in Computer Engineering** @ Mumbai University  
 
-💼 **Software Engineer | Data Analyst**  
-🔹 Ex-Oracle | AARP Intern | Ex-Analyst @ Comptroller of Maryland  
+💼 **Software & AI Engineer | Data Analyst**  
+🔹 Worldlink US | Ex-Oracle | AARP Intern | Ex-Analyst @ Comptroller of Maryland  
 
-🌎 Passionate about **data, software, and building scalable solutions** that create real-world impact.  
+🌎 Passionate about **building scalable solutions** that create real-world impact.  
 
 &nbsp;
 
@@ -61,9 +61,12 @@
 
 &nbsp;
 ## 🌱 Current Focus  
-- 🚀 Strengthening **system design & algorithms** for SWE interviews  
-- 📊 Enhancing **data modeling & governance expertise** for analytics roles  
-- 🤝 Building projects that combine **AI + data engineering** for end-to-end solutions  
+- 🚀 Advancing **systems design, backend engineering, and large-scale data processing** skills to build scalable, production-ready applications  
+- 🤖 Strengthening expertise in **AI engineering, LLM-powered analytics, and Snowflake Cortex AI**, especially for building intelligent chat interfaces over enterprise data  
+- 📊 Deepening knowledge of **data modeling, data governance, and quantitative analytics**, including semantic modeling, forecasting, and retail-focused ML systems  
+- 🏗️ Building **end-to-end AI + Data Engineering solutions** (SKU-level demand forecasting, replenishment automation, BI chat agents, IoT-enhanced analytics)  
+- ☁️ Expanding hands-on experience across **Databricks, GCP, AWS, and Snowflake**, focusing on scalable pipelines and ML workflows  
+- 🔍 Experimenting with **XGBoost, time-series modeling, MLOps patterns, and real-time insights** for operational analytics in retail and finance  
 
 &nbsp;
   
