@@ -108,49 +108,99 @@
 &nbsp;
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://cdn.simpleicons.org/python/3776AB" height="18" />
+    </td>
+    <td valign="top">
+      <b>Languages</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" height="18" />
+    </td>
+    <td valign="top">
+      <b>Backend & APIs</b><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-333333?style=flat"/>
+      <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+    </td>
+  </tr>
 
-<p>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-</p>
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="18" />
+    </td>
+    <td valign="top">
+      <b>Cloud & Platforms</b><br/>
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=awslambda&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Snowflake%20(Cortex%20AI)-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
+    </td>
+  </tr>
 
-<details>
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://cdn.simpleicons.org/postgresql/336791" height="18" />
+    </td>
+    <td valign="top">
+      <b>Databases</b><br/>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
 
-  **Languages:** Java, Python, SQL, JavaScript, TypeScript  
-  **Backend:** Spring Boot, FastAPI, Flask, Node.js; REST APIs; Swagger/OpenAPI  
-  **Cloud & Data Platforms:** GCP (BigQuery, Cloud Storage, Cloud Run, Dataflow), AWS, Databricks, Snowflake (Cortex AI)  
-  **Data Engineering:** ETL/ELT pipelines, ingestion pipelines, batch processing, data transformation  
-  **Databases:** Snowflake, BigQuery, Oracle DB, PostgreSQL, MySQL, MongoDB  
-  **DevOps:** Docker, CI/CD, Jenkins, Bitbucket Pipelines, Git  
-  **Tools & Analytics:** Jira, Tableau, Redis, Kafka  
-  **Certifications:** GCP Associate Cloud Engineer; Databricks Fundamentals; IBM Linux & Shell Scripting
-</details>
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" height="18" />
+    </td>
+    <td valign="top">
+      <b>DevOps & Delivery</b><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-333333?style=flat"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://cdn.simpleicons.org/jira/0052CC" height="18" />
+    </td>
+    <td valign="top">
+      <b>Tools & Analytics</b><br/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+
 
 &nbsp;
 
