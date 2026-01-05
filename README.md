@@ -1,75 +1,166 @@
-# 👋 Hi there, I'm Aarya Hari  
 
-🎓 **M.S. in Information Systems** @ University of Maryland  
-🎓 **B.E. in Computer Engineering** @ Mumbai University  
+<h1 align="center">👋 Hi there, I'm Aarya Hari</h1>
 
-💼 **Software & AI Engineer | Data Analyst**  
-🔹 Worldlink US | Ex-Oracle | AARP Intern | Ex-Analyst @ Comptroller of Maryland  
+<p align="center">
+  <b>Software Engineer (AI/ML) • Backend + Data Platforms</b><br/>
+  🎓 M.S. Information Systems @ University of Maryland • 🎓 B.E. Computer Engineering @ Mumbai University
+</p>
 
-🌎 Passionate about **building scalable solutions** that create real-world impact.  
+<p align="center">
+  🌎 I build <b>production-grade AI + data systems</b>: LLM-powered analytics interfaces, scalable APIs, and forecasting workflows on cloud.
+</p>
+
+<p align="center">
+  <a href="mailto:aaryashari11@gmail.com"><img src="https://img.shields.io/badge/Email-aaryashari11%40gmail.com-informational?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aarya-hari"><img src="https://img.shields.io/badge/LinkedIn-Aarya%20Hari-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AaryaHari"><img src="https://img.shields.io/badge/GitHub-AaryaHari-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://public.tableau.com/app/profile/aarya.hari5931/vizzes"><img src="https://img.shields.io/badge/Tableau-Public%20Vizzes-E97627?style=flat&logo=tableau&logoColor=white"/></a>
+</p>
+
+&nbsp;
+
+## ✨ What I’m Working On (now)
+- 🤖 **Enterprise AI analytics chat agent** (FastAPI + Snowflake Cortex AI) for natural-language queries over enterprise data  
+- 📈 **SKU demand forecasting + replenishment** (Python/XGBoost + Databricks + BigQuery) with safety-stock based recommendations  
+- 🚀 **UAT → Prod CI/CD promotion** on GCP using Bitbucket Pipelines, with Jira automation + Devin AI assisted dev workflow  
 
 &nbsp;
 
-## 🧠 What I Do  
+## 🚀 Featured Projects
 
-### 💻 Software Engineering  
-- ⚙️ **Engineer scalable systems & APIs** with Java, Python (Flask/FastAPI), and RESTful services  
-- 🖥️ **Develop full-stack features & tools** using React.js, Node.js, and modern web frameworks  
-- 🧩 **Implement automation & DevOps pipelines** with AWS (Lambda, Redshift, S3) and CI/CD tools  
-- 🔐 **Build secure, reliable applications** with focus on testing, error handling, and performance optimization  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NL→SQL Query Assistant (Snowflake Cortex)</h3>
+      <p>
+        Flask app that converts natural language to <b>safe SQL</b> with schema awareness and guardrails.
+      </p>
+      <ul>
+        <li>✅ SELECT-only validation + row limits</li>
+        <li>🧭 Auto schema detection for the question</li>
+        <li>🖥️ Clean UI (Tailwind + CodeMirror)</li>
+      </ul>
+      <p>
+        <a href="https://github.com/AaryaHari/Text-to-Sql">🔗 Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💸 Expense Tracker App</h3>
+      <p>
+        Expense tracker with auth, balances, charts, and monthly reports.
+      </p>
+      <ul>
+        <li>📊 Monthly summaries (type/mode)</li>
+        <li>🧾 PDF export workflow</li>
+        <li>🗃️ SQLite-backed storage</li>
+      </ul>
+      <p>
+        <a href="https://github.com/AaryaHari/expense-tracker-app">🔗 Repo</a>
+      </p>
+    </td>
+  </tr>
 
-
-### 📊 Data Analytics  
-- 🔍 **Analyze & transform large datasets** into actionable insights for decision-making  
-- 🤖 **Build predictive models** with Python (scikit-learn), SQL, and R for forecasting & classification  
-- 📊 **Design interactive dashboards** with Tableau and Power BI for real-time business visibility  
-- 🔁 **Validate models & streamline ETL workflows** using PySpark, SQL, and AWS tools  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Face Recognition Attendance</h3>
+      <p>
+        Real-time attendance logging using webcam recognition.
+      </p>
+      <ul>
+        <li>📷 OpenCV + face recognition pipeline</li>
+        <li>🗓️ SQLite logging (name/date/time)</li>
+        <li>📤 CSV export</li>
+      </ul>
+      <p>
+        <a href="https://github.com/AaryaHari/Face-Recognition-Attendance-System">🔗 Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Airbnb Analysis & Price Prediction</h3>
+      <p>
+        PySpark-based EDA + ML regression + dashboard insights.
+      </p>
+      <ul>
+        <li>⚡ PySpark + Spark SQL data processing</li>
+        <li>🤖 scikit-learn modeling</li>
+        <li>📊 Tableau storytelling</li>
+      </ul>
+      <p>
+        <a href="https://github.com/AaryaHari/AirBnB-Analysis">🔗 Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 &nbsp;
-## 🛠️ Tech Stack  
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+## 🧠 What I Do
+### 💻 Software Engineering
+- ⚙️ Build scalable **APIs & services** (FastAPI/Flask/Spring Boot)  
+- 🧩 Improve delivery with **CI/CD**, automation, and reliability-first practices  
+- 🔐 Ship secure systems with **RBAC/auth patterns**, testing, and performance tuning  
 
-**Frameworks & Tools:**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-
-**Visualization & ML:**  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-
-**Databases & Cloud:**  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+### 📊 AI / Data Engineering
+- 🔁 Design **ETL/ELT pipelines** and batch processing workflows  
+- 🤖 Build predictive models (**forecasting / classification**) and deploy inference services  
+- 📈 Create dashboards & metrics for operational decision-making  
 
 &nbsp;
-## 🌱 Current Focus  
-- 🚀 Advancing **systems design, backend engineering, and large-scale data processing** skills to build scalable, production-ready applications  
-- 🤖 Strengthening expertise in **AI engineering, LLM-powered analytics, and Snowflake Cortex AI**, especially for building intelligent chat interfaces over enterprise data  
-- 📊 Deepening knowledge of **data modeling, data governance, and quantitative analytics**, including semantic modeling, forecasting, and retail-focused ML systems  
-- 🏗️ Building **end-to-end AI + Data Engineering solutions** (SKU-level demand forecasting, replenishment automation, BI chat agents, IoT-enhanced analytics)  
-- ☁️ Expanding hands-on experience across **Databricks, GCP, AWS, and Snowflake**, focusing on scalable pipelines and ML workflows  
-- 🔍 Experimenting with **XGBoost, time-series modeling, MLOps patterns, and real-time insights** for operational analytics in retail and finance  
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+</p>
+
+<details>
+
+  **Languages:** Java, Python, SQL, JavaScript, TypeScript  
+  **Backend:** Spring Boot, FastAPI, Flask, Node.js; REST APIs; Swagger/OpenAPI  
+  **Cloud & Data Platforms:** GCP (BigQuery, Cloud Storage, Cloud Run, Dataflow), AWS, Databricks, Snowflake (Cortex AI)  
+  **Data Engineering:** ETL/ELT pipelines, ingestion pipelines, batch processing, data transformation  
+  **Databases:** Snowflake, BigQuery, Oracle DB, PostgreSQL, MySQL, MongoDB  
+  **DevOps:** Docker, CI/CD, Jenkins, Bitbucket Pipelines, Git  
+  **Tools & Analytics:** Jira, Tableau, Redis, Kafka  
+  **Certifications:** GCP Associate Cloud Engineer; Databricks Fundamentals; IBM Linux & Shell Scripting
+</details>
 
 &nbsp;
-  
 
+## 🌱 Current Focus
+- 🧩 Systems design + backend engineering (scalability, reliability, clean APIs)
+- 🤖 AI engineering (LLM tool-use patterns, safe NLQ, evaluation)
+- 📈 Forecasting + MLOps patterns for operational analytics
 
-⚡ Always exploring ways to merge **data and engineering** to solve high-impact problems.  
+&nbsp;
+
+<p align="center">
+  ⚡ Always exploring ways to merge <b>AI + engineering</b> to solve high-impact problems.
+</p>
