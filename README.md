@@ -13,7 +13,6 @@
 <p align="center">
   <a href="mailto:aaryashari11@gmail.com"><img src="https://img.shields.io/badge/Email-aaryashari11%40gmail.com-informational?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aarya-hari"><img src="https://img.shields.io/badge/LinkedIn-Aarya%20Hari-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AaryaHari"><img src="https://img.shields.io/badge/GitHub-AaryaHari-black?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://public.tableau.com/app/profile/aarya.hari5931/vizzes"><img src="https://img.shields.io/badge/Tableau-Public%20Vizzes-E97627?style=flat&logo=tableau&logoColor=white"/></a>
 </p>
 
